@@ -5,7 +5,7 @@
 >> **Aprendizaje**
 
 ___
-##  proceso 1:  ` registro.html ` se registra usuario y se envia la informacion
+##  proceso 1:  `registro.html` se registra usuario y se envia la informacion
 ![imagen1](img/foto1.JPG)
 
 ___
