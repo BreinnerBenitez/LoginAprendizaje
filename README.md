@@ -1,5 +1,5 @@
 # mysql-workbench 🐬 servidor java con apache 8.5
-## **Creacion  base de datos de  una entidad ,  consultas sql JDBC , Java JEE  y tomcat  🐱 **
+## **Creacion  base de datos de  una entidad ,  consultas sql JDBC , Java JEE  y tomcat** 🐱 
 ## 
 
 >> **Aprendizaje**
