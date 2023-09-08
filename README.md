@@ -9,7 +9,7 @@ ___
 ![imagen1](img/foto1.JPG)
 
 ___
-## proceso 2: una ves enviada la informacion es eviada ' Recoge_datos.jsp '
+## proceso 2: una ves enviada la informacion es eviada 'Recoge_datos.jsp'
 ![imagen2](img/foto2.1.JPG)
 
 
