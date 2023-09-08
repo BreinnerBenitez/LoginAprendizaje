@@ -5,16 +5,16 @@
 >> **Aprendizaje**
 
 ___
-##  proceso 1:  ' registro.html ' se registra usuario y se envia la informacion
+##  proceso 1:  ` registro.html ` se registra usuario y se envia la informacion
 ![imagen1](img/foto1.JPG)
 
 ___
-## proceso 2: una ves enviada la informacion es eviada 'Recoge_datos.jsp'
+## proceso 2: una ves enviada la informacion es eviada `Recoge_datos.jsp`
 ![imagen2](img/foto2.1.JPG)
 
 
 ___
-## proceso 3 :  estos datos son enviados a 'basedatojsp.sql' y nos  gurada los datos 
+## proceso 3 :  estos datos son enviados a `basedatojsp.sql` y nos  gurada los datos 
 ![imagen1](img/foto3.JPG)
 ___
 registrado con exito 
@@ -28,12 +28,12 @@ estos son los registros de la entidad usuarios
 
 
 ___
-## proceso 4:  utilizamos  'loginformulario.html'  para ingresar con nuestro usuario 
+## proceso 4:  utilizamos  `loginformulario.html`  para ingresar con nuestro usuario 
 ![imagen1](img/foto6.JPG)
 
 
 ___
-## proceso 5: esta informacion  es enviada a  'compruebauser.jsp'  tiene una consulta preparada
+## proceso 5: esta informacion  es enviada a  `compruebauser.jsp`  tiene una consulta preparada
 ## con la informacion registrada  de usuario y contraseña 
  ![imagen1](img/6.1.JPG)
 
